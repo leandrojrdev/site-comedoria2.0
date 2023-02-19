@@ -134,38 +134,31 @@ const data = {
     slide: [
         {
             id: '300',
-            name: 'PROMO 2 DUPLO CHEDDAR',
-            price: 30.00,
+            name: 'PRODUTO',
+            price: 99.99,
             image: "https://picsum.photos/1080/400",
-            description: '02 Duplo Cheddar + 01 Refri 1L'
+            description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit.'
         },
         {
             id: '301',
-            name: 'PROMO 2 X-BACON',
-            price: 29.99,
+            name: 'PRODUTO',
+            price: 99.99,
             image: "https://picsum.photos/1080/400",
-            description: '02 X-Bacon + 01 Refri 1L + 01 Batata P'
+            description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit.'
         },
         {
             id: '302',
-            name: 'PROMO 02 X-EGG',
-            price: 39.99,
+            name: 'PRODUTO',
+            price: 99.99,
             image: "https://picsum.photos/1080/400",
-            description: '02 X-Egg + 01 Batata P + 02 Milkshake'
+            description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit.'
         },
         {
             id: '303',
-            name: 'PROMO 02 X-TUDO',
-            price: 35.99,
+            name: 'PRODUTO',
+            price: 99.99,
             image: "https://picsum.photos/1080/400",
-            description: '02 X-Tudo + 01 Refri 1L'
-        },
-        {
-            id: '304',
-            name: 'PROMO 03 X-BACON',
-            price: 39.99,
-            image: "https://picsum.photos/1080/400",
-            description: '03 X-Bacon + 01 Refri 1L + 01 Batata P'
+            description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit.'
         },
     ]
 
